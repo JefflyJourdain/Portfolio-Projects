@@ -3,7 +3,7 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data camp](#End_to_End_Analysis_Projects)
+- [Full Projects](#End_to_End_Analysis_Projects)
 - [SQL](#sql)
 - [Python](#python)
 
