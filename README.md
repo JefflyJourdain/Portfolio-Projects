@@ -11,9 +11,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [global-retailer-Analysis](https://github.com/JefflyJourdain/global-retailer-Analysis) | May 2026 | AzureSql, PowerBi| This project covers the full BI development lifecycle — from raw data ingestion into Azure SQL to a production-ready Power BI dashboard. Working with a ~120K row dataset, I designed a star schema data model, implemented advanced DAX measures (KPIs, time intelligence, customer segmentation), and used Calculation Groups to standardize time-based analysis at scale. The result is a 4-page executive dashboard delivering actionable insights on revenue trends, product performance, and sales channel behavior (B2C vs. B2B).
+| 🚗 [global-ecommerce-Analysis](https://github.com/JefflyJourdain/global-retailer-Analysis) | May 2026 | AzureSql, PowerBi| This project covers the full BI development lifecycle — from raw data ingestion into Azure SQL to a production-ready Power BI dashboard. Working with a ~120K row dataset, I designed a star schema data model, implemented advanced DAX measures (KPIs, time intelligence, customer segmentation), and used Calculation Groups to standardize time-based analysis at scale. The result is a 4-page executive dashboard delivering actionable insights on revenue trends, product performance, and sales channel behavior (B2C vs. B2B).
+| 🚗 [E-Commerce Operations Analytics](https://github.com/JefflyJourdain/E-Commerce-Analysis) | June 2026 | Python, AzureSql, PowerBi| An end-to-end data analytics project built on a 100k rows synthetic e-commerce operations dataset. The project covers a full modern data stack: a Python ETL pipeline extracting data via API and loading directly into Azure SQL, advanced T-SQL data cleaning and modelling, and a Power BI executive dashboard with live cloud deployment.
+
+
 
  |
+ 
 
 # SQL
 
